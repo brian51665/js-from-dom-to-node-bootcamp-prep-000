@@ -1,7 +1,7 @@
 // write your code below!
 var gizmo = "Sleeping before midnight."
 
-if (gizmo === "Sleeping before midnight") {
+if (gizmo === "Sleeping before midnight.") {
   console.log("Sleep tight little Mogwai.")
 } else if (gizmo ==="Eating after midnight") {
   console.log("Hsssssssssssssss")
