@@ -1,10 +1,12 @@
 // write your code below!
-var dog = "Thirsty"
+var gizmo = "Light is bright"
 
-if (dog === "Hungry") {
-  console.log("nomnomnomnomnomnom")
-} else if (dog === "Thirsty") {
-  console.log("gulpgulpgulp")
+if (gizmo === "Sleeping before midnight") {
+  console.log("Sleep tight little Mogwai.")
+} else if (gizmo ==="Eating after midnight") {
+  console.log("Hsssssssssssssss")
+} else if (gizmo === "Light is bright") {
+  console.log("Bright light Bright light!!!!!!!")
 } else {
-  console.log("Reading the newspaper")
+  console.log("Where is he?")
 }
