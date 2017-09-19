@@ -3,6 +3,8 @@ console.log("Hello World!!!!")
 
 var dog = "Satisfied"
 
+dog = "Hungry"
+
 if (dog === "Hungry") {
   console.log("nomnomnomnomnom")
 } else {
