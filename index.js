@@ -1,12 +1,10 @@
 // write your code below!
-console.log("Hello World!!!!")
-
-var dog = "Satisfied"
-
-dog = "Hungry"
+var dog = "Thirsty"
 
 if (dog === "Hungry") {
-  console.log("nomnomnomnomnom")
+  console.log("nomnomnomnomnomnom")
+} else if (dog === "Thirsty") {
+  console.log("gulpgulpgulp")
 } else {
-  console.log("zzzzzzzzzzzzzzz")
+  console.log("Reading the newspaper")
 }
