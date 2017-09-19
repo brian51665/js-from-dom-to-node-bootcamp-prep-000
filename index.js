@@ -1,5 +1,5 @@
 // write your code below!
-var gizmo = "Light is bright"
+var gizmo = "Sleeping before midnight."
 
 if (gizmo === "Sleeping before midnight") {
   console.log("Sleep tight little Mogwai.")
